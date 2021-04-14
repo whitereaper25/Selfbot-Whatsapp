@@ -1,4 +1,4 @@
-->_<| *Beta VHSelfbot* |>_<-
+->_<| *I am your slave* |>_<-
 
 *Command :*
 
@@ -111,4 +111,4 @@
 
 Rest API's : VHTear
 
-->_<| *Beta VHSelfbot* |>_<-
+->_<| *I am your slave* |>_<-

@@ -94,7 +94,7 @@ async function SBVHtear() {
 				VHsendMessage(VH, to, "Hi babe when sex")
 			} else if (txt == "me") {
 				VHsendMention(VH, to, "Hey jj @VHtears" + VH.user.jid, [VH.user.jid])
-				VHsendContact(VH, to, "UwU", VH.user.jid)
+				VHsendContact(VH, to, "Master jj", VH.user.jid)
 			} else if (txt == "tagall") {
 				var vz = await VH.groupMetadata(to)
 				var memB = vz.participants

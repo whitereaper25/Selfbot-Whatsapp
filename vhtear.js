@@ -91,7 +91,7 @@ async function SBVHtear() {
                 //Jika ingin public if (!m.key.fromMe) {
                 if (m.key.fromMe) {
 			if (txt == "hi") {
-				VHsendMessage(VH, to, "Hi babe, when sex")
+				VHsendMessage(VH, to, "Hi babe when sex")
 			} else if (txt == "me") {
 				VHsendMention(VH, to, "Hey @VHtears" + VH.user.jid, [VH.user.jid])
 				VHsendContact(VH, to, "master jj", VH.user.jid)

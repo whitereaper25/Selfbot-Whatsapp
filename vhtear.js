@@ -91,10 +91,10 @@ async function SBVHtear() {
                 //Jika ingin public if (!m.key.fromMe) {
                 if (m.key.fromMe) {
 			if (txt == "hi") {
-				VHsendMessage(VH, to, "Hi babe when sex")
+				VHsendMessage(VH, to, "Hi babe")
 			} else if (txt == "me") {
-				VHsendMention(VH, to, "Hey @VHtears" + VH.user.jid, [VH.user.jid])
-				VHsendContact(VH, to, "master jj", VH.user.jid)
+				VHsendMention(VH, to, "Hey jj @VHtears" + VH.user.jid, [VH.user.jid])
+				VHsendContact(VH, to, "Vhtears", VH.user.jid)
 			} else if (txt == "tagall") {
 				var vz = await VH.groupMetadata(to)
 				var memB = vz.participants
